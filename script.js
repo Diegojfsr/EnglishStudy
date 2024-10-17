@@ -105,3 +105,19 @@ list.unshift('a'); //add elemento no inicio da lista.
 console.log(list);
 
 
+// objetos
+
+const product = {
+    name: 'camisa',
+    price: 15.99,
+    inStock: true,
+    sizes: ['P', 'M', 'G'],
+    'Main Color': 'Azul',
+}
+    
+console.log(product.name);
+console.log(product['name']);
+console.log(product['Main Color']);
+
+    
+
