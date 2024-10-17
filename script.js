@@ -190,9 +190,9 @@ counter++  //counter + 1
 }
 
 // for
-const mySecundList = ['a', 'b', 'c', 'd', 'e'];
+const mySecondList = ['a', 'b', 'c', 'd', 'e'];
 
-for (let counter = 0; counter < mySecundList.length; counter++){
+for (let counter = 0; counter < mySecondList.length; counter++){
 console.log(`Imprimindo: ${mySecondList[counter]}`) //template literals
 }
 
