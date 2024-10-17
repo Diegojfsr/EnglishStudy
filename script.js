@@ -80,3 +80,27 @@ cosole.log(fullName.indexOf('Jeff'));
 console.log('ads'.indexOf('Jeff'));
 console.log(fullName.slice(0,7));
 
+// metodo array
+
+const list = ['a', 'b', 'c', 'd', 'e'];
+console.log(list.length);
+console.log(list[2]);
+
+list[5] = 'f';
+console.log(list);
+console.log(list.[list.length-1]); //pegar utimo elemento da lista.
+
+list.push('g'); //add elemento no final da lista.
+console.log(list);
+
+
+list.pop(); //remove elemento no final da lista.
+console.log(list);
+
+list.shift(); // remove elemento no inicio da lista.
+console.log(list);
+
+list.unshift('a'); //add elemento no inicio da lista.
+console.log(list);
+
+
