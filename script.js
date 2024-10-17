@@ -178,3 +178,23 @@ let testingNumber = someNumber < 20 ? 'yes' : 'no'
 console.log(testingNumber);
 
 
+// estruturas de repeticao
+
+// while
+const myList = [1, 2, 3, 4, 5];
+let counter = 0;
+
+while(counter < myList.length){
+console.log('Imprimindo:' + myList[counter])
+counter++  //counter + 1
+}
+
+// for
+const mySecundList = ['a', 'b', 'c', 'd', 'e'];
+
+for (let counter = 0; counter < mySecundList.length; counter++){
+console.log(`Imprimindo: ${mySecondList[counter]}`) //template literals
+}
+
+
+
