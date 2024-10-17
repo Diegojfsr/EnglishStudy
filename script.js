@@ -88,7 +88,8 @@ console.log(list[2]);
 
 list[5] = 'f';
 console.log(list);
-console.log(list.[list.length-1]); //pegar utimo elemento da lista.
+
+console.log(list[list.length-1]); //pegar utimo elemento da lista.
 
 list.push('g'); //add elemento no final da lista.
 console.log(list);
