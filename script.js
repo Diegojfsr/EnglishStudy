@@ -132,3 +132,24 @@ const [n1, n2] = list
 console.log(n1);
 console.log(n2);
 
+
+// Json-JavaScript Object Notation
+
+const dog = {
+    name: 'shark',
+    age: 10,
+    }
+    
+    const json = JSON.stringfy(dog);
+    console.log(json); //convert para json
+    
+    const obj = JSON.parse(json);
+    console.log(obj); //convert para objeto
+    
+    const json2 = '{"name":"teste", "name2":"teste2"}'
+    const obj2 = JSON.parse(json2);
+    console.log(obj2);
+
+    
+
+
