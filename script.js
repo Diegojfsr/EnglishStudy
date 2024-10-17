@@ -140,15 +140,15 @@ const dog = {
     age: 10,
     }
     
-    const json = JSON.stringfy(dog);
-    console.log(json); //convert para json
-    
-    const obj = JSON.parse(json);
-    console.log(obj); //convert para objeto
-    
-    const json2 = '{"name":"teste", "name2":"teste2"}'
-    const obj2 = JSON.parse(json2);
-    console.log(obj2);
+const json = JSON.stringfy(dog);
+console.log(json); //convert para json
+
+const obj = JSON.parse(json);
+console.log(obj); //convert para objeto
+
+const json2 = '{"name":"teste", "name2":"teste2"}'
+const obj2 = JSON.parse(json2);
+console.log(obj2);
 
     
 // estruturas condicionais
@@ -168,5 +168,13 @@ if(b === 'Joao'){
 }else{
     console.log('Nao encontramos o nome.')
 }
+
+
+// if ternario
+
+const someNumber = 14;
+
+let testingNumber = someNumber < 20 ? 'yes' : 'no'
+console.log(testingNumber);
 
 
