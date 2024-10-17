@@ -23,4 +23,48 @@ y = 25;
 console.log(y);
 
 
+// tipo de dados
+
+const nome = "Diego";
+console.log(nome);
+console.log(typeof nome);
+
+const shirtsQty = 4;
+console.log(shirtsQty);
+console.log(typeof shirsQty);
+
+const decimal = 12.4;
+console.log(decimal);
+console.log(typeof decimal);
+
+const isApproved = false // true or false
+console.log(isApproved);
+console.log(typeof isApproved);
+
+let surname = null;
+console.log(surname);
+console.log(typeof surname);
+
+surname = "Jeff";
+console.log(surname);
+console.log(typeof surname);
+
+let age;
+console.log(age);
+console.log(typeof age);
+
+const languages = ['JavaScript', 'PHP', 'Python'];
+console.log(languages);
+console.log(typeof languages);
+
+const user = {
+email: 'diego@gmail.com',
+password: '123',
+age: 25
+}
+
+console.log(user);
+console.log(typeof user);
+
+
 
