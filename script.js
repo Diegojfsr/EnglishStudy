@@ -67,4 +67,16 @@ console.log(user);
 console.log(typeof user);
 
 
+// metodo de string
+
+const fullName = "Diego Jeff";
+console.log(fullName.length);
+
+const stringToArray = fullName.split(' ');
+console.log(stringToArray);
+console.log(fullName.toLowercase());
+console.log(fullName.toUpperCase());
+cosole.log(fullName.indexOf('Jeff'));
+console.log('ads'.indexOf('Jeff'));
+console.log(fullName.slice(0,7));
 
