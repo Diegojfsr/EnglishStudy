@@ -120,4 +120,15 @@ console.log(product['name']);
 console.log(product['Main Color']);
 
     
+// destructuring
+
+//object
+const {price, inStock} = product;
+console.log(price);
+console.log(inStock);
+
+// array
+const [n1, n2] = list
+console.log(n1);
+console.log(n2);
 
