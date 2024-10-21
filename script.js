@@ -197,4 +197,36 @@ console.log(`Imprimindo: ${mySecondList[counter]}`) //template literals
 }
 
 
+// metodos de array
+
+// forEach
+const names=['Diago', 'Joao', 'Pedro', 'Marcia'];
+names.forEach(function(name){
+    console.log(`O nome é: ${name}`)
+})
+
+
+// map
+const modifedNames=names.map(function(name){
+    if (name === 'Diego'){
+        return(name='Dr.Diego')
+        }else{
+        return name
+    }
+})
+console.log(modifiedNames);
+
+
+//filter
+const bigNumbers=[1, 2, 3, 4, 5, 10, 100].filter(function(number){
+    return number >= 5
+})
+console.log(bigNumbers);
+
+
+// reduce
+const sumAll=[10, 20, 30, 40, 50].reduce(function(total, number){
+    return total + number
+})
+console.log(sumAll);
 
