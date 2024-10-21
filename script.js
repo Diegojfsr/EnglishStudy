@@ -284,3 +284,66 @@ console.log(mySipleArrowFunction(5, 5))
 
 
 
+// classes
+
+class Product{
+    constructor(name, price){
+        this.name = name
+        this.price = price
+    }
+}
+
+const socks = new Product('Meia branca ', 10.99)
+console.log(socks.name)
+console.log(socks.price)
+
+
+
+class Product{
+    constructor(name, price){
+        this.name = name
+        this.price = price
+    }
+    productDetails(){
+        retunr `O nome do produto é: ${this.name} e o preco é: R$${this.price}`
+    }
+}
+const shirt = new Product("Camisa Preta", 22.99)
+console.log(shirt.productDetails())
+
+
+// heranca
+class superProduct extends Product{
+    constructor(name, price, size){
+        super(name, price)
+        this.size=size
+    }
+    showAdjective(adjective){
+        return `O ${this.name} é muito ${adjective}`
+    }
+}
+
+const tenis = new superProduct('Tenis Vermelho', 59.99, "42")
+    console.log(tenis.name)
+    console.log(tenis.size)
+    console.log(tenis.showAdjective('Bom'))
+
+
+
+// metodo static
+class SuperProduct extends Product{
+    constructor(name, price, size){
+    super(name, price)
+    this.size=size
+    }
+    //static
+    static sayHello(){
+        console.log('Hello')
+    }
+}
+
+SuperProduct.sayHello()
+
+    
+
+
