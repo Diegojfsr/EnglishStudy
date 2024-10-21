@@ -230,3 +230,57 @@ const sumAll=[10, 20, 30, 40, 50].reduce(function(total, number){
 })
 console.log(sumAll);
 
+
+
+// funcoes
+
+function minhaFuncao(){
+    console.log('hello world.')
+}
+
+minhaFuncao()
+    
+    
+// funcao com parametros
+function nomeCompleto(nome, sobrenome){
+    console.log(`O nome completo é: ${nome} ${sobrenome}`)
+}
+nomeCompleto('Diego', 'Jeff');
+nomeCompleto('Joao', 'Azevedo');
+
+// funcao com retorno
+function nomeCompleto(nome, sobrenome){
+    return `o nome completo e: ${nome} ${sobrenome}`
+}
+
+console.log(nomeCompleto('Diego', 'Jef'))
+
+const meuNomecompleto=nomeCompleto('Maria', 'Matos');
+console.log(meuNomeCompleto);
+
+const priemiroNome = 'Maria';
+const segundoNome = 'Matos';
+
+const meuNomeCompleto = nomeCompleto(primeiroNome, segundoNome);
+console.log(meuNomeCompleto);
+
+
+// arrow functions
+const myArrowFunction = (a, b) => {
+    return a + b 
+}
+
+console.log(myArrowFunction(2, 5));
+
+
+const aumAll = [10,20, 30, 40, 50].reduce((total, number) => {
+    return total + number
+})
+console.log(sumAll);
+
+
+const mySipleArrowFunction = (a, b) => a + b
+console.log(mySipleArrowFunction(5, 5))
+
+
+
