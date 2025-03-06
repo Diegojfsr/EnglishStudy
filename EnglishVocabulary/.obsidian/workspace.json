@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "25e5e21166dc4c77",
+        "id": "20b86601789b9f35",
         "type": "tabs",
         "children": [
           {
-            "id": "77ad3e1041599e65",
+            "id": "ef2c0c30e2978dec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bem-vindo.md",
-                "mode": "source",
+                "file": "🎧 EnglishMusic/𝄞 Summertime Sadness Letra.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bem-vindo"
-            }
-          }
-        ]
-      },
-      {
-        "id": "47526c2c2ed1a033",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "77e1038df7990627",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "title": "𝄞 Summertime Sadness Letra"
             }
           }
         ]
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bem-vindo.md",
+                "file": "🎧 EnglishMusic/𝄞 Summertime Sadness Letra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Bem-vindo"
+              "title": "Links inversos para 𝄞 Summertime Sadness Letra"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bem-vindo.md",
+                "file": "🎧 EnglishMusic/𝄞 Summertime Sadness Letra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Bem-vindo"
+              "title": "Links de saída para 𝄞 Summertime Sadness Letra"
             }
           },
           {
@@ -158,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bem-vindo.md",
+                "file": "🎧 EnglishMusic/𝄞 Summertime Sadness Letra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Bem-vindo"
+              "title": "Sumário de 𝄞 Summertime Sadness Letra"
             }
           }
         ]
@@ -184,8 +168,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "77ad3e1041599e65",
+  "active": "ef2c0c30e2978dec",
   "lastOpenFiles": [
-    "Bem-vindo.md"
+    "🎧 EnglishMusic/𝄞 Summertime Sadness Traducao.md",
+    "🎧 EnglishMusic/𝄞 Summertime Sadness Letra.md",
+    "📚 Aprendendo Obsidian Comands.md",
+    "Bem-vindo.md",
+    "🎧 EnglishMusic"
   ]
 }
