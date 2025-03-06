@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "b8c3f9c18d1481fe",
+    "id": "d76c70446dda7835",
     "type": "split",
     "children": [
       {
-        "id": "4cfbe44a9fbf17df",
+        "id": "25e5e21166dc4c77",
         "type": "tabs",
         "children": [
           {
-            "id": "2fd9c053fa88fb1d",
+            "id": "77ad3e1041599e65",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "01b3f61d04629173",
+        "id": "47526c2c2ed1a033",
         "type": "tabs",
         "children": [
           {
-            "id": "fac75ae49972cdf9",
+            "id": "77e1038df7990627",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -43,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7b49e188c6d8980d",
+    "id": "08ff00c588235d98",
     "type": "split",
     "children": [
       {
-        "id": "b70c016e30b0164b",
+        "id": "85c95403b9fff1fa",
         "type": "tabs",
         "children": [
           {
-            "id": "691df6c4f0e0737b",
+            "id": "170cbf88d5fc5389",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "491ee271018c141e",
+            "id": "075f111b6932b30c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,7 +81,7 @@
             }
           },
           {
-            "id": "1b7680083f550e96",
+            "id": "414e98d660c0aa0b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,15 +97,15 @@
     "width": 300
   },
   "right": {
-    "id": "322aba332f76ba1d",
+    "id": "af026c3f4ea2882e",
     "type": "split",
     "children": [
       {
-        "id": "faf2287754b794a0",
+        "id": "2d92eb10d6472e47",
         "type": "tabs",
         "children": [
           {
-            "id": "40a14e0de32de6e7",
+            "id": "e6530e3298c5c954",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -124,7 +124,7 @@
             }
           },
           {
-            "id": "263dd8527c9e1e4e",
+            "id": "882d0eff03c5be09",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "200a2a5cbf99b824",
+            "id": "0a9aae5b1fd445ea",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,7 +153,7 @@
             }
           },
           {
-            "id": "084bc21426ee5b93",
+            "id": "162377a620ae98ad",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -184,7 +184,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2fd9c053fa88fb1d",
+  "active": "77ad3e1041599e65",
   "lastOpenFiles": [
     "Bem-vindo.md"
   ]
