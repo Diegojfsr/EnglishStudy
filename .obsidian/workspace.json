@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b0a30571f8423556",
+        "id": "82bb1e1d83e5073f",
         "type": "tabs",
         "children": [
           {
-            "id": "d3a74784316871d5",
+            "id": "f0d4e72f1336e4c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Nova aba"
             }
           }
         ]
@@ -94,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de README"
+              "title": "Sumário"
             }
           },
           {
@@ -167,9 +162,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d3a74784316871d5",
+  "active": "f0d4e72f1336e4c9",
   "lastOpenFiles": [
     "BasicVocabulary/🔤 Basic Vocabulary 20 English Words for Everyday Life.md",
+    "README.md",
     "🟩 NodeJs/🟩 NodeJs.md",
     "⚛️ ReactJs/⚛️ ReactJs.md",
     "🌐 NextJs/🌐 NextJs.md",
@@ -194,7 +190,6 @@
     "React Webpack/🏠 React Webpack.md",
     "React Redux/🏠 React Redux.md",
     "React Jest/🏠 React Jest.md",
-    "Contex API/🏠 Contex API.md",
     "Contex API/Sem título"
   ]
 }
