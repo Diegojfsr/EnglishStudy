@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "82bb1e1d83e5073f",
+        "id": "e7b9b9434f6763c6",
         "type": "tabs",
         "children": [
           {
-            "id": "f0d4e72f1336e4c9",
+            "id": "ee28854d9ba394d6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259
+    "width": 284
   },
   "right": {
     "id": "540752595780d070",
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 254,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,10 +163,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f0d4e72f1336e4c9",
+  "active": "ee28854d9ba394d6",
   "lastOpenFiles": [
-    "BasicVocabulary/🔤 Basic Vocabulary 20 English Words for Everyday Life.md",
     "README.md",
+    "VideoTranscription/🎬 James Hetfield - Interview with BuzzFeed.md",
+    "EnglishMusic/𝄞 Britney Spears - Baby One More Time.md",
+    "BasicVocabulary/🔤 Basic Vocabulary 20 English Words for Everyday Life.md",
     "🟩 NodeJs/🟩 NodeJs.md",
     "⚛️ ReactJs/⚛️ ReactJs.md",
     "🌐 NextJs/🌐 NextJs.md",
@@ -188,8 +191,6 @@
     "React Hooks/1️⃣ Fundamentos dos Hooks.md",
     "Styled Components/🏠 Styled Components.md",
     "React Webpack/🏠 React Webpack.md",
-    "React Redux/🏠 React Redux.md",
-    "React Jest/🏠 React Jest.md",
     "Contex API/Sem título"
   ]
 }
