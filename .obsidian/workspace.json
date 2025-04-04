@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f790ee0a22f4b13d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EnglishMusic/𝄞 Bon Jovi - It's My Life.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "𝄞 Bon Jovi - It's My Life"
-            }
-          },
-          {
             "id": "df8b139878818667",
             "type": "leaf",
             "state": {
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "𝄞 Bon Jovi - Livin' On A Prayer"
+            }
+          },
+          {
+            "id": "230905cd9c10b908",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EnglishMusic/𝄞 Bon Jovi - You Give Love A Bad Name.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "𝄞 Bon Jovi - You Give Love A Bad Name"
             }
           }
         ],
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EnglishMusic/𝄞 Bon Jovi - Livin' On A Prayer.md",
+                "file": "EnglishMusic/𝄞 Bon Jovi - You Give Love A Bad Name.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 𝄞 Bon Jovi - Livin' On A Prayer"
+              "title": "Sumário de 𝄞 Bon Jovi - You Give Love A Bad Name"
             }
           },
           {
@@ -181,10 +181,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "df8b139878818667",
+  "active": "230905cd9c10b908",
   "lastOpenFiles": [
-    "EnglishMusic/𝄞 Bon Jovi - It's My Life.md",
     "EnglishMusic/𝄞 Bon Jovi - Livin' On A Prayer.md",
+    "EnglishMusic/𝄞 Bon Jovi - You Give Love A Bad Name.md",
+    "EnglishMusic/𝄞 Bon Jovi - It's My Life.md",
     "EnglishMusic/𝄞 Britney Spears - Baby One More Time.md",
     "VideoTranscription/🎬 Selena Gomez - 73 Questions With Selena Gomez-Vogue.md",
     "BasicVocabulary/🔤 Basic Vocabulary 20 English Words for Everyday Life.md",
