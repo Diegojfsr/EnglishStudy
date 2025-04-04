@@ -1,0 +1,50 @@
+{
+  "styles": {
+    "🟩 NodeJs": {
+      "textColor": "#038d49",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "🟨 JavaScript": {
+      "textColor": "#ab7721",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "🟦 TypeScript": {
+      "textColor": "#5190f5",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "🌐 NextJs": {
+      "textColor": "#2da6d2",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "⚛️ ReactJs": {
+      "textColor": "#c943f9",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "BasicVocabulary": {
+      "textColor": "#0084ff",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true
+    },
+    "EnglishMusic": {
+      "textColor": "#ff9500",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true
+    },
+    "VideoTranscription": {
+      "textColor": "#00ffbf",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "isItalic": false
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}
