@@ -1,0 +1,102 @@
+{
+  "styles": {
+    "🟩 NodeJs": {
+      "textColor": "#038d49",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "🟨 JavaScript": {
+      "textColor": "#ab7721",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "🟦 TypeScript": {
+      "textColor": "#5190f5",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "🌐 NextJs": {
+      "textColor": "#2da6d2",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "⚛️ ReactJs": {
+      "textColor": "#c943f9",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "1️⃣ Janiero": {
+      "textColor": "#ffffff",
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "backgroundColor": "#4199af"
+    },
+    "2️⃣ Fevereiro": {
+      "textColor": "#ffffff",
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "backgroundColor": "#04a869"
+    },
+    "3️⃣ Marco": {
+      "textColor": "#f5f5f5",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "backgroundColor": "#4199af"
+    },
+    "4️⃣ Abril": {
+      "textColor": "#ffffff",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "backgroundColor": "#04a869"
+    },
+    "5️⃣ Maio 3️⃣": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": false,
+      "textColor": "#ffffff",
+      "backgroundColor": "#0298ac"
+    },
+    "1.Janiero": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fcfcfc",
+      "backgroundColor": "#974c53"
+    },
+    "2.Fevereiro": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f7f3f3",
+      "backgroundColor": "#957254"
+    },
+    "3.Marco": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#978b59"
+    },
+    "4.Abril": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isItalic": false,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#4e7f50"
+    },
+    "5.Maio": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "textColor": "#fcfcfc",
+      "backgroundColor": "#538589"
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}
