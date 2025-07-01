@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40 English Words for Everyday Life/01.Today.md",
+                "file": "20 English Words for Everyday Life/01. Hello.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.Today"
+              "title": "01. Hello"
             }
           }
         ]
@@ -108,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40 English Words for Everyday Life/01.Today.md",
+                "file": "20 English Words for Everyday Life/01. Hello.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01.Today"
+              "title": "Sumário de 01. Hello"
             }
           },
           {
@@ -182,6 +182,7 @@
   },
   "active": "f6cb1cc3640840ba",
   "lastOpenFiles": [
+    "40 English Words for Everyday Life/01.Today.md",
     "40 English Words for Everyday Life/20.Go.md",
     "40 English Words for Everyday Life/19.Do.md",
     "40 English Words for Everyday Life/18.Sunday.md",
@@ -201,7 +202,6 @@
     "40 English Words for Everyday Life/04.Week.md",
     "40 English Words for Everyday Life/03.Tomorrow.md",
     "40 English Words for Everyday Life/02.Yesterday.md",
-    "40 English Words for Everyday Life/01.Today.md",
     "20 English Words for Everyday Life/01. Hello.md",
     "20 English Words for Everyday Life/20.Small.md",
     "20 English Words for Everyday Life/19.Far.md",
