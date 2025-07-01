@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d81ef71ff4ca6e1",
+        "id": "80614cd483cca4e4",
         "type": "tabs",
-        "dimension": 48.58870967741936,
         "children": [
           {
-            "id": "f51d57703e3d1027",
+            "id": "5de56f418758bba2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,12 +24,11 @@
         ]
       },
       {
-        "id": "670fe7b3f082aa45",
+        "id": "63cce8d7d37642ab",
         "type": "tabs",
-        "dimension": 51.41129032258065,
         "children": [
           {
-            "id": "f6cb1cc3640840ba",
+            "id": "89762f89091f4f63",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -114,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "1b77f82fc4207f64",
@@ -190,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,43 +202,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f6cb1cc3640840ba",
+  "active": "89762f89091f4f63",
   "lastOpenFiles": [
     "01.Just a Bit of Chaos.md",
-    "40 English Words for Everyday Life/01.Today.md",
-    "40 English Words for Everyday Life/20.Go.md",
-    "40 English Words for Everyday Life/19.Do.md",
-    "40 English Words for Everyday Life/18.Sunday.md",
-    "40 English Words for Everyday Life/17.Saturday.md",
-    "40 English Words for Everyday Life/16.Friday.md",
-    "40 English Words for Everyday Life/15.Thursday.md",
-    "40 English Words for Everyday Life/14.Wednesday.md",
-    "40 English Words for Everyday Life/13.Tuesday.md",
-    "40 English Words for Everyday Life/12.Monday.md",
-    "40 English Words for Everyday Life/11.Calendar.md",
-    "40 English Words for Everyday Life/10.O'clock.md",
-    "40 English Words for Everyday Life/09.Clock.md",
-    "40 English Words for Everyday Life/08.Hour.md",
-    "40 English Words for Everyday Life/07.Minute.md",
-    "40 English Words for Everyday Life/06.Second.md",
-    "40 English Words for Everyday Life/05.Year.md",
-    "40 English Words for Everyday Life/04.Week.md",
-    "40 English Words for Everyday Life/03.Tomorrow.md",
-    "40 English Words for Everyday Life/02.Yesterday.md",
-    "20 English Words for Everyday Life/01. Hello.md",
-    "20 English Words for Everyday Life/20.Small.md",
-    "20 English Words for Everyday Life/19.Far.md",
-    "20 English Words for Everyday Life/18.Near.md",
-    "20 English Words for Everyday Life/17.Difficult.md",
-    "200 English Words for Everyday Life",
-    "180 English Words for Everyday Life",
-    "160 English Words for Everyday Life",
-    "140 English Words for Everyday Life",
-    "120 English Words for Everyday Life",
-    "100 English Words for Everyday Life",
-    "80 English Words for Everyday Life",
-    "60 English Words for Everyday Life",
-    "40 English Words for Everyday Life",
-    "20 English Words for Everyday Life"
+    "Learn JS Basics with 30 days/04. 2635. Apply Transform Over Each Element in Array.md",
+    "Learn JS Basics with 30 days/03. 2704. To Be Or Not To Be.md",
+    "Learn JS Basics with 30 days/02. 2620. Counter.md",
+    "Learn JS Basics with 30 days/01. 2667. Create Hello World Function.md",
+    "Daily Questions/01. 594. Longest Harmonious Subsequence.md",
+    "Daily Questions",
+    "Learn JS Basics with 30 days/04. 2665. Counter II.md",
+    "A1.Iniciante - Vocabulário/13.Making suggestions.md",
+    "A1.Iniciante - Vocabulário/12.Asking permission.md",
+    "A1.Iniciante - Vocabulário/11.Requesting-offering.md",
+    "A1.Iniciante - Vocabulário/10.Inviting, refusing, accepting, thanking.md",
+    "A1.Iniciante - Vocabulário/09.Talking about past experiences.md",
+    "A1.Iniciante - Vocabulário/08. Giving opinions.md",
+    "A1.Iniciante - Vocabulário/07.Talking about likes and dislikes.md",
+    "A1.Iniciante - Vocabulário/06.Talking about frequency and time duration.md",
+    "A1.Iniciante - Vocabulário/05.Talking about routines.md",
+    "A1.Iniciante - Vocabulário/04.Describing people and objects.md",
+    "A1.Iniciante - Vocabulário/03.Asking about personal information.md",
+    "A1.Iniciante - Vocabulário/02.Buying and asking prices.md",
+    "A1.Iniciante - Vocabulário/01.Greeting and introducing.md",
+    "A1.Iniciante - Tópicos/20.Clothes.md",
+    "A1.Iniciante - Tópicos/19.Street directions.md",
+    "A1.Iniciante - Tópicos/18.Feelings and emotions.md",
+    "A1.Iniciante - Tópicos/17.Health.md",
+    "A1.Iniciante - Tópicos/16.Transport.md",
+    "A1.Iniciante - Tópicos/15.Weather.md",
+    "A1.Iniciante - Tópicos",
+    "A1.Iniciante - Vocabulário",
+    "A1.Iniciante - Gramática",
+    "06.Junho",
+    "1️⃣",
+    "Junho 4️⃣",
+    "05.Maio",
+    "4️⃣",
+    "3️⃣ Marco/Sem título"
   ]
 }
