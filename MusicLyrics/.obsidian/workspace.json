@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "80614cd483cca4e4",
+        "id": "25b77f0164ebc841",
         "type": "tabs",
-        "dimension": 41.935483870967744,
         "children": [
           {
-            "id": "5de56f418758bba2",
+            "id": "5327e8609c830761",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Just a Bit of Chaos.md",
+                "file": "04.Green Day - Holiday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.Just a Bit of Chaos"
+              "title": "04.Green Day - Holiday"
             }
           }
         ]
@@ -27,38 +26,22 @@
       {
         "id": "63cce8d7d37642ab",
         "type": "tabs",
-        "dimension": 58.06451612903226,
         "children": [
           {
-            "id": "89762f89091f4f63",
+            "id": "bc7bfc39b4c08cf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Just a Bit of Chaos.md",
+                "file": "04.Green Day - Holiday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.Just a Bit of Chaos"
-            }
-          },
-          {
-            "id": "914cc0684bdd6f8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Just a Bit of Chaos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02.Just a Bit of Chaos"
+              "title": "04.Green Day - Holiday"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "1b77f82fc4207f64",
@@ -219,10 +201,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "914cc0684bdd6f8d",
+  "active": "5327e8609c830761",
   "lastOpenFiles": [
-    "01.Just a Bit of Chaos.md",
+    "03.Just a Bit of Chaos.md",
+    "04.Green Day - Holiday.md",
     "02.Just a Bit of Chaos.md",
+    "01.Just a Bit of Chaos.md",
     "Learn JS Basics with 30 days/04. 2635. Apply Transform Over Each Element in Array.md",
     "Learn JS Basics with 30 days/03. 2704. To Be Or Not To Be.md",
     "Learn JS Basics with 30 days/02. 2620. Counter.md",
@@ -246,8 +230,6 @@
     "A1.Iniciante - Tópicos/20.Clothes.md",
     "A1.Iniciante - Tópicos/19.Street directions.md",
     "A1.Iniciante - Tópicos/18.Feelings and emotions.md",
-    "A1.Iniciante - Tópicos/17.Health.md",
-    "A1.Iniciante - Tópicos/16.Transport.md",
     "A1.Iniciante - Tópicos",
     "A1.Iniciante - Vocabulário",
     "A1.Iniciante - Gramática",
